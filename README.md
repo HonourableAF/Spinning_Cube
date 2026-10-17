@@ -14,7 +14,7 @@ This project runs entirely on standard Python libraries. No external dependencie
 ### 2. Clone the Repository
 Open your terminal and run the following commands to download the project:
 ```
-git clone [https://github.com/sahadebojyoti09-lang/Spinning_Cube.git](https://github.com/sahadebojyoti09-lang/Spinning_Cube.git)
+git clone https://github.com/HonourableAF/Spinning_Cube.git
 ```
 then,
 
